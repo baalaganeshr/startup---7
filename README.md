@@ -1,15 +1,62 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Aetherion Watches Landing Page
 
-# Run the Aetherion experience
+A premium landing page experience for Aetherion Watches, built with modern web technologies.
 
-This repo contains a Vite + React landing experience for Aetherion watches. No third-party API keys are required.
+## Tech Stack
 
-## Run locally
+- **React**: Component-based UI library
+- **Vite**: Next Generation Frontend Tooling
+- **TailwindCSS**: Utility-first CSS framework
+- **Framer Motion**: Animations and transitions
+- **Three.js**: 3D model rendering
 
-**Prerequisites:** Node.js
+## Getting Started
 
-1. Install dependencies: `npm install`
-2. Start the dev server: `npm run dev`
-3. Open the printed localhost URL (defaults to port 3000, or the next available port).
+Follow these instructions to set up the project locally.
+
+### Prerequisites
+
+- Node.js installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   `ash
+   git clone https://github.com/baalaganeshr/startup---7.git
+   `
+
+2. Navigate to the project directory:
+   `ash
+   cd startup---7
+   `
+
+3. Install dependencies:
+   `ash
+   npm install
+   `
+
+### Running Locally
+
+Start the development server:
+
+`ash
+npm run dev
+`
+
+The application will be available at http://localhost:3000 (or another available port).
+
+## Deployment
+
+This project is deployed using GitHub Pages.
+
+To deploy a new version:
+
+`ash
+npm run deploy
+`
+
+Visit the live site: [https://baalaganeshr.github.io/startup---7/](https://baalaganeshr.github.io/startup---7/)
+
+## License
+
+This project is open source and available under the MIT License.
